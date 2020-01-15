@@ -1,1 +1,1 @@
-# thermal-chart
+# 3D Thermal Chart Generator
